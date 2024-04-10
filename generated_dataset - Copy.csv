@@ -1,0 +1,101 @@
+input_text,target_text
+System temperature decreased to 49 degC when pressure is 41 bar and valve is 39% open.,Increase the valve slightly more and decrease 20% pressure.
+System temperature stabilized to 58 degC when pressure is 38 bar and valve is 48% open.,Immediately decrease the valve by 10% and increase 10% pressure.
+System temperature stabilized to 74 degC when pressure is 65 bar and valve is 75% open.,Consider reducing the valve little more and decrease 5% pressure.
+System temperature stabilized to 83 degC when pressure is 62 bar and valve is 57% open.,Immediately decrease the valve little more and decrease 10% pressure.
+System temperature low to 71 degC when pressure is 28 bar and valve is 66% open.,Consider reducing the valve bit more and release 10% pressure.
+System temperature stabilized to 69 degC when pressure is 41 bar and valve is 82% open.,Increase the valve by 5% and maintain 20% pressure.
+System temperature critical to 74 degC when pressure is 30 bar and valve is 45% open.,Increase the valve little more and release 15% pressure.
+System temperature decreased to 83 degC when pressure is 39 bar and valve is 83% open.,Increase the valve by 10% and increase 5% pressure.
+System temperature stabilized to 60 degC when pressure is 51 bar and valve is 54% open.,Consider reducing the valve little more and decrease 10% pressure.
+System temperature low to 70 degC when pressure is 46 bar and valve is 50% open.,Increase the valve bit more and maintain 10% pressure.
+System temperature increased to 68 degC when pressure is 68 bar and valve is 35% open.,Try to open the valve slightly more and increase 5% pressure.
+System temperature stabilized to 59 degC when pressure is 60 bar and valve is 62% open.,Immediately decrease the valve by 10% and decrease 5% pressure.
+System temperature low to 93 degC when pressure is 53 bar and valve is 56% open.,Immediately decrease the valve by 10% and increase 15% pressure.
+System temperature low to 61 degC when pressure is 59 bar and valve is 57% open.,Increase the valve slightly more and increase 10% pressure.
+System temperature stabilized to 88 degC when pressure is 32 bar and valve is 88% open.,Try to open the valve slightly more and decrease 20% pressure.
+System temperature critical to 53 degC when pressure is 64 bar and valve is 70% open.,Try to open the valve an additional 15% and increase 20% pressure.
+System temperature increased to 88 degC when pressure is 60 bar and valve is 46% open.,Increase the valve bit more and increase 5% pressure.
+System temperature low to 92 degC when pressure is 60 bar and valve is 51% open.,Consider reducing the valve little more and maintain 15% pressure.
+System temperature decreased to 80 degC when pressure is 50 bar and valve is 80% open.,Consider reducing the valve by 10% and increase 10% pressure.
+System temperature increased to 81 degC when pressure is 70 bar and valve is 88% open.,Consider reducing the valve an additional 15% and release 5% pressure.
+System temperature decreased to 86 degC when pressure is 27 bar and valve is 60% open.,Try to open the valve by 5% and release 20% pressure.
+System temperature low to 90 degC when pressure is 45 bar and valve is 88% open.,Immediately decrease the valve little more and release 10% pressure.
+System temperature decreased to 67 degC when pressure is 50 bar and valve is 46% open.,Try to open the valve an additional 15% and increase 5% pressure.
+System temperature decreased to 50 degC when pressure is 26 bar and valve is 80% open.,Immediately decrease the valve an additional 15% and increase 5% pressure.
+System temperature critical to 74 degC when pressure is 39 bar and valve is 37% open.,Consider reducing the valve little more and release 20% pressure.
+System temperature low to 68 degC when pressure is 63 bar and valve is 41% open.,Immediately decrease the valve by 10% and increase 5% pressure.
+System temperature decreased to 68 degC when pressure is 57 bar and valve is 67% open.,Maintain the valve slightly more and release 15% pressure.
+System temperature decreased to 85 degC when pressure is 67 bar and valve is 37% open.,Immediately decrease the valve bit more and decrease 20% pressure.
+System temperature decreased to 48 degC when pressure is 31 bar and valve is 81% open.,Maintain the valve by 10% and release 20% pressure.
+System temperature decreased to 59 degC when pressure is 31 bar and valve is 50% open.,Maintain the valve slightly more and release 15% pressure.
+System temperature critical to 73 degC when pressure is 57 bar and valve is 40% open.,Consider reducing the valve little more and maintain 10% pressure.
+System temperature critical to 91 degC when pressure is 66 bar and valve is 79% open.,Maintain the valve slightly more and decrease 5% pressure.
+System temperature critical to 89 degC when pressure is 27 bar and valve is 58% open.,Immediately decrease the valve by 10% and increase 10% pressure.
+System temperature critical to 50 degC when pressure is 52 bar and valve is 84% open.,Consider reducing the valve by 10% and increase 15% pressure.
+System temperature decreased to 55 degC when pressure is 26 bar and valve is 84% open.,Immediately decrease the valve an additional 15% and decrease 5% pressure.
+System temperature decreased to 82 degC when pressure is 54 bar and valve is 53% open.,Consider reducing the valve bit more and decrease 15% pressure.
+System temperature stabilized to 85 degC when pressure is 65 bar and valve is 85% open.,Increase the valve an additional 15% and release 20% pressure.
+System temperature increased to 71 degC when pressure is 33 bar and valve is 84% open.,Maintain the valve by 10% and release 5% pressure.
+System temperature increased to 91 degC when pressure is 50 bar and valve is 70% open.,Immediately decrease the valve little more and increase 15% pressure.
+System temperature stabilized to 48 degC when pressure is 34 bar and valve is 37% open.,Consider reducing the valve by 10% and decrease 10% pressure.
+System temperature critical to 91 degC when pressure is 37 bar and valve is 74% open.,Try to open the valve bit more and increase 10% pressure.
+System temperature increased to 64 degC when pressure is 37 bar and valve is 51% open.,Consider reducing the valve bit more and increase 10% pressure.
+System temperature critical to 96 degC when pressure is 38 bar and valve is 53% open.,Increase the valve an additional 15% and increase 20% pressure.
+System temperature increased to 61 degC when pressure is 65 bar and valve is 78% open.,Immediately decrease the valve by 5% and maintain 20% pressure.
+System temperature stabilized to 50 degC when pressure is 53 bar and valve is 64% open.,Maintain the valve by 5% and decrease 20% pressure.
+System temperature stabilized to 59 degC when pressure is 63 bar and valve is 76% open.,Maintain the valve by 10% and release 10% pressure.
+System temperature stabilized to 49 degC when pressure is 60 bar and valve is 44% open.,Try to open the valve by 5% and increase 15% pressure.
+System temperature decreased to 54 degC when pressure is 41 bar and valve is 55% open.,Maintain the valve by 5% and release 15% pressure.
+System temperature low to 64 degC when pressure is 40 bar and valve is 78% open.,Maintain the valve bit more and increase 10% pressure.
+System temperature low to 80 degC when pressure is 72 bar and valve is 57% open.,Try to open the valve little more and maintain 10% pressure.
+System temperature stabilized to 52 degC when pressure is 34 bar and valve is 61% open.,Maintain the valve by 10% and maintain 10% pressure.
+System temperature critical to 84 degC when pressure is 26 bar and valve is 46% open.,Maintain the valve little more and increase 5% pressure.
+System temperature low to 85 degC when pressure is 50 bar and valve is 84% open.,Immediately decrease the valve slightly more and increase 10% pressure.
+System temperature increased to 79 degC when pressure is 70 bar and valve is 63% open.,Consider reducing the valve little more and release 10% pressure.
+System temperature low to 89 degC when pressure is 63 bar and valve is 41% open.,Immediately decrease the valve by 5% and decrease 5% pressure.
+System temperature low to 96 degC when pressure is 72 bar and valve is 47% open.,Consider reducing the valve bit more and maintain 5% pressure.
+System temperature critical to 92 degC when pressure is 50 bar and valve is 86% open.,Immediately decrease the valve an additional 15% and maintain 10% pressure.
+System temperature increased to 74 degC when pressure is 46 bar and valve is 75% open.,Immediately decrease the valve bit more and maintain 20% pressure.
+System temperature decreased to 52 degC when pressure is 50 bar and valve is 88% open.,Try to open the valve by 5% and increase 5% pressure.
+System temperature stabilized to 54 degC when pressure is 36 bar and valve is 44% open.,Immediately decrease the valve an additional 15% and decrease 5% pressure.
+System temperature critical to 98 degC when pressure is 53 bar and valve is 64% open.,Maintain the valve slightly more and decrease 15% pressure.
+System temperature critical to 55 degC when pressure is 61 bar and valve is 62% open.,Increase the valve little more and decrease 20% pressure.
+System temperature decreased to 72 degC when pressure is 68 bar and valve is 41% open.,Consider reducing the valve slightly more and maintain 20% pressure.
+System temperature stabilized to 82 degC when pressure is 63 bar and valve is 57% open.,Consider reducing the valve little more and release 15% pressure.
+System temperature stabilized to 67 degC when pressure is 48 bar and valve is 78% open.,Immediately decrease the valve little more and increase 10% pressure.
+System temperature stabilized to 59 degC when pressure is 38 bar and valve is 84% open.,Maintain the valve slightly more and decrease 15% pressure.
+System temperature low to 63 degC when pressure is 36 bar and valve is 55% open.,Consider reducing the valve little more and decrease 5% pressure.
+System temperature critical to 94 degC when pressure is 62 bar and valve is 62% open.,Consider reducing the valve slightly more and maintain 10% pressure.
+System temperature critical to 61 degC when pressure is 29 bar and valve is 83% open.,Increase the valve little more and decrease 20% pressure.
+System temperature critical to 87 degC when pressure is 71 bar and valve is 44% open.,Increase the valve by 10% and increase 5% pressure.
+System temperature critical to 52 degC when pressure is 26 bar and valve is 84% open.,Immediately decrease the valve by 10% and increase 5% pressure.
+System temperature critical to 75 degC when pressure is 37 bar and valve is 82% open.,Try to open the valve slightly more and increase 5% pressure.
+System temperature critical to 87 degC when pressure is 43 bar and valve is 40% open.,Increase the valve little more and maintain 15% pressure.
+System temperature decreased to 96 degC when pressure is 25 bar and valve is 58% open.,Increase the valve by 10% and increase 15% pressure.
+System temperature stabilized to 60 degC when pressure is 63 bar and valve is 42% open.,Try to open the valve by 5% and maintain 10% pressure.
+System temperature stabilized to 88 degC when pressure is 48 bar and valve is 63% open.,Maintain the valve an additional 15% and increase 10% pressure.
+System temperature critical to 53 degC when pressure is 32 bar and valve is 73% open.,Maintain the valve little more and increase 5% pressure.
+System temperature low to 95 degC when pressure is 26 bar and valve is 51% open.,Consider reducing the valve by 10% and decrease 20% pressure.
+System temperature stabilized to 69 degC when pressure is 56 bar and valve is 87% open.,Immediately decrease the valve by 10% and maintain 10% pressure.
+System temperature low to 57 degC when pressure is 27 bar and valve is 57% open.,Maintain the valve bit more and maintain 5% pressure.
+System temperature increased to 94 degC when pressure is 50 bar and valve is 62% open.,Immediately decrease the valve slightly more and increase 10% pressure.
+System temperature stabilized to 71 degC when pressure is 61 bar and valve is 61% open.,Increase the valve little more and decrease 10% pressure.
+System temperature critical to 95 degC when pressure is 63 bar and valve is 83% open.,Increase the valve by 5% and maintain 20% pressure.
+System temperature stabilized to 95 degC when pressure is 52 bar and valve is 52% open.,Try to open the valve little more and decrease 15% pressure.
+System temperature low to 91 degC when pressure is 34 bar and valve is 36% open.,Increase the valve by 5% and increase 5% pressure.
+System temperature stabilized to 61 degC when pressure is 43 bar and valve is 78% open.,Increase the valve an additional 15% and release 10% pressure.
+System temperature decreased to 98 degC when pressure is 54 bar and valve is 78% open.,Consider reducing the valve by 5% and decrease 5% pressure.
+System temperature increased to 71 degC when pressure is 53 bar and valve is 36% open.,Maintain the valve an additional 15% and increase 20% pressure.
+System temperature low to 70 degC when pressure is 43 bar and valve is 87% open.,Increase the valve by 5% and increase 15% pressure.
+System temperature stabilized to 57 degC when pressure is 25 bar and valve is 87% open.,Try to open the valve slightly more and release 5% pressure.
+System temperature low to 85 degC when pressure is 66 bar and valve is 87% open.,Maintain the valve little more and increase 5% pressure.
+System temperature low to 83 degC when pressure is 48 bar and valve is 69% open.,Immediately decrease the valve by 5% and decrease 15% pressure.
+System temperature stabilized to 78 degC when pressure is 33 bar and valve is 89% open.,Increase the valve slightly more and release 10% pressure.
+System temperature low to 62 degC when pressure is 64 bar and valve is 83% open.,Immediately decrease the valve by 10% and decrease 5% pressure.
+System temperature stabilized to 77 degC when pressure is 65 bar and valve is 52% open.,Try to open the valve little more and release 15% pressure.
+System temperature low to 82 degC when pressure is 26 bar and valve is 60% open.,Maintain the valve by 10% and maintain 5% pressure.
+System temperature critical to 52 degC when pressure is 27 bar and valve is 49% open.,Consider reducing the valve an additional 15% and maintain 15% pressure.
+System temperature increased to 89 degC when pressure is 49 bar and valve is 75% open.,Try to open the valve an additional 15% and release 10% pressure.
+System temperature low to 67 degC when pressure is 48 bar and valve is 37% open.,Immediately decrease the valve by 5% and increase 20% pressure.
+System temperature decreased to 62 degC when pressure is 45 bar and valve is 45% open.,Immediately decrease the valve bit more and maintain 20% pressure.
